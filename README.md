@@ -1,5 +1,6 @@
 # typora-picBed
-#### requirements
+## Personal picture bed used in typora
+#### Requirements
 1. typora
 2. PicGo-Core (command line)
 3. Github public repo
